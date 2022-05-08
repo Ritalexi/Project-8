@@ -289,9 +289,9 @@ width: 42%;
     color: hsl(0, 0%, 100%);
     transition: all .3s ease;
 }
-.img:hover{
-   stroke: hsl(0, 0%, 100%);
-   transition: all .3s ease-in;
+.img{
+    filter: hsl(0, 0%, 100%);
+   -webkit-filter: hsl(0, 0%, 100%);
 }
 @media screen and (max-width: 1024px){
     .stay_productive_img{
