@@ -364,7 +364,11 @@ align-items: center;
         margin: 15px 0px;
     }
 }
-
+@media screen and (max-width: 370px){
+    .stay_productive_link{
+        width: 160px;
+    }
+}
 .testimonial_section{
     background-image: url('./images/bg-quotes.png');
     background-repeat: no-repeat;
