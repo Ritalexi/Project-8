@@ -569,7 +569,7 @@ input[type='button']:hover{
         height: 410px;
         }
     }
-    @media screen and (max-width: 321px){
+    @media screen and (max-width: 370px){
         .sign-up{
             width: 90%;
             height: 430px;
