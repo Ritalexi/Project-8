@@ -38,11 +38,8 @@ margin-left: 20px;
     text-decoration: underline;
 }
 @media screen and (max-width: 500px) {
-   
-   
     nav{
-        padding: 8%;
-      
+        padding: 5%;
     }
     .nav_img{
         width: 35%;
@@ -59,10 +56,6 @@ width: 65%;
         }
 }
 @media screen and (max-width: 321px){
-    nav{
-        padding: 5%;
-      
-    }
     .nav_img{
         width: 30%;
     }
@@ -278,7 +271,7 @@ width: 42%;
     grid-template-columns: auto;
     border: none;
     border-bottom: solid 2px hsl(198, 60%, 50%);
-    width: 153px;
+    width: 155px;
 }
 .stay_productive_link a{
     color: hsl(198, 60%, 50%);
@@ -447,7 +440,7 @@ margin-top: 20px;
         margin: 20% auto;
         background-position: top left 10%, 100%;
         background-size: 40px;
-        height: 700px;
+        height: 670px;
     }
     .testimonials{
         width: 90%;
@@ -547,7 +540,7 @@ input[type='button']:hover{
 @media screen and (max-width: 500px){
     .sign-up{
         width: 90%;
-        height: 370px;
+        height: 400px;
         }
         .sign-up p{
             width: 95%;
